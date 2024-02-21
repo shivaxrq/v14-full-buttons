@@ -1,4 +1,4 @@
-# Discordjs v14 Boş Altyapı
+# Discordjs v14 Full Buttons
 
 İstediğiniz gibi kullanabilirsiniz.
 
